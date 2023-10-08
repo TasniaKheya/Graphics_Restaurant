@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\LAB_02\3D\main.cpp(46,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(47,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(48,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(68,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(829,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(829,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(829,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(844,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(844,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(937,113): warning C4101: 'rotateX2Matrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(937,97): warning C4101: 'rotateX1Matrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(964,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(964,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(964,113): warning C4101: 'rotateX2Matrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(964,97): warning C4101: 'rotateX1Matrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(1099,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(1099,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(1099,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\LAB_02\3D\main.cpp(1169,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1170,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1171,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1172,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1173,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1174,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1175,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1176,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1177,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1178,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1179,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1180,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\LAB_02\3D\main.cpp(1206,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1211,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1216,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1221,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1226,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1231,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1236,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1241,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1246,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1251,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1256,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\LAB_02\3D\main.cpp(1261,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> C:\LAB_02\3D\x64\Debug\3D.exe
